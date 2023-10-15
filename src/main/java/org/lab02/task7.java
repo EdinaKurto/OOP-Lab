@@ -1,7 +1,5 @@
 package org.lab02;
 
-import java.util.Scanner;
-
 public class task7 {
     public static void printStars(int amount) {
         String star =  "";

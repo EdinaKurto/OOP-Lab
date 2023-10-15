@@ -8,7 +8,7 @@ public class task10 {
         Random rand = new Random();
         return rand.nextInt(101);
     }
-    public static void main(String args[]) {
+    public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int randomInt = drawNumber();
 
